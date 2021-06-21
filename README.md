@@ -127,3 +127,13 @@ session.timeout=
 
 ```
 
+
+
+## 其他搭建文件服务器的方法
+
+### Nginx auto index
+
+### MiniIO
+
+### GoHttpServer
+
